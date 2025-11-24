@@ -50,15 +50,9 @@ The main game file is checkers.py.
 ├── README.md         # Project documentation.
 assets/ # Optional; for images and sound files
 
-Future Improvements:
-- Add AI single-player mode.
-- Add animations for movement.
-- Add display of scores and winner message.
-- Add undo and restart buttons.
-- Add sound effects.
-
 Authors:
-Developed by: 1) Kusambh Prasad BA2025022
-              2) Kislay BA2025018
-              3) Anirudh Parashar BA2025003
-              4) Sanchit Gupta BE2025024
+Developed by: 
+1) Kusambh Prasad BA2025022
+2) Kislay BA2025018
+3) Anirudh Parashar BA2025003
+4) Sanchit Gupta BE2025024
