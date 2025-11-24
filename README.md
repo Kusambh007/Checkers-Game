@@ -31,7 +31,7 @@ Run the following command in terminal / CMD.
 pip install pygame.
 
 3. Run the Game.
-You can save the script as checkers.py (or any name) and run it.
+You can save the script as checkers.py and run it.
 
 python checkers.py.
 
